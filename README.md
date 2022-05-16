@@ -1,5 +1,6 @@
-# Project_0-2
+# Project_1-2
 This project is going to be a remake of my P1. I realize now that I name it P0, that was a mistype.
+I redeemed it :). Below is the original readme.
 
 # Employee Reimbursment System (ERS)
 
